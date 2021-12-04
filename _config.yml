@@ -104,7 +104,7 @@ analytics:
 author:
   name             : "자객수장"
   avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
-  bio              : "**X**."
+  bio              : "**X**"
   location         : "X"
   email            :
   links:
